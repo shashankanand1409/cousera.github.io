@@ -1,2 +1,0 @@
-# htmlcssjs
-coursera course practice
